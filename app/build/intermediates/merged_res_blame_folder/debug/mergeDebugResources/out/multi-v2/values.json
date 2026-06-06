@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.permissions.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yass\\Desktop\\My Room\\Android\\permissions\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "428"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "231",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "643"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yass\\Desktop\\My Room\\Android\\permissions\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,56,101",
+                        "endColumns": "39,44,41",
+                        "endOffsets": "51,96,138"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,95,140",
+                        "endColumns": "39,44,41",
+                        "endOffsets": "90,135,177"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yass\\Desktop\\My Room\\Android\\permissions\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "48",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endColumns": "48",
+                        "endOffsets": "226"
+                    }
+                }
+            ]
+        }
+    ]
+}

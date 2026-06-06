@@ -1,0 +1,13 @@
+com.example.permissions:string/app_name = 0x7f040000
+com.example.permissions:drawable/ic_launcher_foreground = 0x7f020005
+com.example.permissions:color/brand = 0x7f010000
+com.example.permissions:drawable/bg_status_granted = 0x7f020004
+com.example.permissions:drawable/bg_status_denied = 0x7f020003
+com.example.permissions:style/AppTheme = 0x7f050000
+com.example.permissions:color/brand_dark = 0x7f010001
+com.example.permissions:mipmap/ic_launcher_round = 0x7f030001
+com.example.permissions:drawable/bg_header = 0x7f020002
+com.example.permissions:color/surface = 0x7f010002
+com.example.permissions:drawable/bg_card = 0x7f020001
+com.example.permissions:drawable/bg_button = 0x7f020000
+com.example.permissions:mipmap/ic_launcher = 0x7f030000

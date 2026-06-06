@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.permissions.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.permissions.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_bg_status_denied.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/bg_status_denied.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_bg_header.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_bg_button.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_bg_status_granted.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/bg_status_granted.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.permissions.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_bg_card.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.permissions.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.permissions.app-main-6:/drawable/ic_launcher_foreground.xml"
+    }
+]

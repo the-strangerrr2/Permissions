@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color brand
+color brand_dark
+color surface
+drawable bg_button
+drawable bg_card
+drawable bg_header
+drawable bg_status_denied
+drawable bg_status_granted
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
